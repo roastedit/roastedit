@@ -21,3 +21,7 @@ There are too many meanings in roastedit than you want to see.
 Ok, let's start with `roastd`. What is _roastd_ about?
 
 First of all it's about a daemon. A Roasted daemon.
+
+# Gloassary
+
+**Roastd** Someting roated.
