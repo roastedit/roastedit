@@ -22,6 +22,6 @@ Ok, let's start with `roastd`. What is _roastd_ about?
 
 First of all it's about a daemon. A Roasted daemon.
 
-# Gloassary
+## Gloassary
 
 **Roastd** Someting roated.
