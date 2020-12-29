@@ -18,4 +18,6 @@ There are too many meanings in roastedit than you want to see.
 
 ## Roastd
 
-Ok, let's start with `roastd`. What it _roastd_ about
+Ok, let's start with `roastd`. What is _roastd_ about?
+
+First of all it's about a daemon. A Roasted daemon.
