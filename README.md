@@ -6,3 +6,16 @@ It's more a suffering from being a thing.
 
 > A Roasteditling.
 
+## Too many ings
+
+There are too many meanings in roastedit than you want to see.
+
+* Ro (aka Raw)
+* Roast
+* Roastd
+* Roasted
+* Roasted it
+
+## Roastd
+
+Ok, let's start with `roastd`. What it _roastd_ about
